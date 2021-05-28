@@ -1,4 +1,4 @@
-### <!--
+### https://twitter.com/0xd1912e
 
 
 - 🔭 I’m currently working on Creating bash scripts to help you and make life more conveinent.
