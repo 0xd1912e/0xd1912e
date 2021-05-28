@@ -1,7 +1,5 @@
 ### <!--
-**0xd1912e/0xd1912e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Creating bash scripts to help you and make life more conveinent.
 - 🌱 I’m currently learning Bash, Python, and trying to learn a bit of GO.
