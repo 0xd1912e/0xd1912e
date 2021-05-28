@@ -1,6 +1,4 @@
-### All About Me :D 👋
-
-<!--
+### <!--
 **0xd1912e/0xd1912e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... I'm 13 Year's old.
 
 ![0ba8e2989811721a348c576a1d24ce77](https://user-images.githubusercontent.com/78890574/119936632-592e0d80-bf3e-11eb-8ea5-bf304473a8e9.gif)
+
+
 
