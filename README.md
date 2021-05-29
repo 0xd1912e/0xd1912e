@@ -8,9 +8,4 @@
 - 📫 How to reach me: You can reach me on discord @Evann#2007
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm 13 Year's old.
-
-![0ba8e2989811721a348c576a1d24ce77](https://user-images.githubusercontent.com/78890574/119936632-592e0d80-bf3e-11eb-8ea5-bf304473a8e9.gif)
-
-
-
 [![0xd1912e's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xd1912e)](https://github.com/anuraghazra/github-readme-stats)
