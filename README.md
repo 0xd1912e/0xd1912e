@@ -4,6 +4,8 @@
 
 🎉Little Buddies to check out: https://github.com/KASLR ,, https://github.com/0x1CA3 ,, https://github.com/dehoisted ..
 
+🎉Stuff you may not know about me!: Im 13, Im Transgender!
+
 
 
 
